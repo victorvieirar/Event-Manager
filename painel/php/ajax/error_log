@@ -1,0 +1,622 @@
+[19-Oct-2018 00:20:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 04:09:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 04:10:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 04:11:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 14:42:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:00:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:08:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(33): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:12:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(34): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:18:34 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 29
+[19-Oct-2018 16:21:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(38): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:21:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(38): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:23:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(44): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:24:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(43): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:27:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(38): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:27:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(38): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[19-Oct-2018 16:30:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'description' doesn't have a default value in /home4/iidscomb/public_html/painel/php/controller/event.php:19
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(19): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(38): EventController->saveEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 19
+[23-Oct-2018 02:02:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`participants`, CONSTRAINT `participants_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[23-Oct-2018 02:08:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`participants`, CONSTRAINT `participants_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[23-Oct-2018 02:09:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`participants`, CONSTRAINT `participants_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[23-Oct-2018 15:42:12 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:43:49 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:44:12 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:44:13 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:44:14 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:44:20 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:44:39 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 15:45:28 UTC] PHP Warning:  Use of undefined constant transactions - assumed 'transactions' (this will throw an Error in a future version of PHP) in /home4/iidscomb/public_html/painel/php/ajax/user.php on line 42
+[23-Oct-2018 22:09:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`coupons`, CONSTRAINT `coupons_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[23-Oct-2018 22:09:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`coupons`, CONSTRAINT `coupons_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[24-Oct-2018 01:06:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`coupons`, CONSTRAINT `coupons_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[24-Oct-2018 01:13:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`iidscomb_db`.`coupons`, CONSTRAINT `coupons_ibfk_1` FOREIGN KEY (`event_id`) REFERENCES `event` (`id`)) in /home4/iidscomb/public_html/painel/php/controller/event.php:52
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(52): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(104): EventController->deleteEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 52
+[26-Oct-2018 15:10:12 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subscriptions_limit' in 'field list' in /home4/iidscomb/public_html/painel/php/controller/event.php:68
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/event.php(68): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/event.php(89): EventController->updateEvent(Object(Event), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 68
+[26-Oct-2018 15:59:11 America/Sao_Paulo] PHP Warning:  require_once(../controller/submissions.php): failed to open stream: No such file or directory in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 11
+[26-Oct-2018 15:59:11 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../controller/submissions.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 11
+[26-Oct-2018 15:59:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:51
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/event.php(124): CouponController->deleteCouponsByEvent(NULL, Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 51
+[26-Oct-2018 15:59:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:51
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/event.php(124): CouponController->deleteCouponsByEvent(NULL, Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 51
+[31-Oct-2018 18:17:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/speaker.php:29
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/speaker.php(20): SpeakerController->deleteSpeaker(Object(Speaker), NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/speaker.php on line 29
+[01-Nov-2018 13:45:32 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'finalScheduleTime' cannot be null in /home4/iidscomb/public_html/painel/php/controller/schedule.php:20
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/schedule.php(20): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(25): ScheduleController->saveSchedule(Object(Schedule), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/schedule.php on line 20
+[01-Nov-2018 13:49:49 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 13:50:19 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 13:50:21 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 13:50:33 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 13:50:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 13:51:03 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 15:44:46 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 41 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(41): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 15:44:54 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 41 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(41): Schedule->__construct('17', 'Testing', '2018-12-12 09:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 15:48:50 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 08:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 15:49:21 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 08:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 15:49:26 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Schedule::__construct(), 3 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 60 and exactly 4 expected in /home4/iidscomb/public_html/painel/php/model/schedule.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(60): Schedule->__construct('17', 'Testing', '2018-12-12 08:0...')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/schedule.php on line 25
+[01-Nov-2018 16:05:31 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '19-Abertura cultural-2018-12-13 07:00:00' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/schedule.php:20
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/schedule.php(20): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(25): ScheduleController->saveSchedule(Object(Schedule), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/schedule.php on line 20
+[01-Nov-2018 17:30:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:48
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/coupon.php(78): CouponController->updateCoupon(Object(Coupon), Object(Coupon), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 48
+[01-Nov-2018 17:32:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:48
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/coupon.php(78): CouponController->updateCoupon(Object(Coupon), Object(Coupon), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 48
+[01-Nov-2018 17:32:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:48
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/coupon.php(78): CouponController->updateCoupon(Object(Coupon), Object(Coupon), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 48
+[01-Nov-2018 17:32:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in /home4/iidscomb/public_html/painel/php/controller/coupon.php:48
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/coupon.php(78): CouponController->updateCoupon(Object(Coupon), Object(Coupon), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 48
+[01-Nov-2018 18:34:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method TicketController::update() in /home4/iidscomb/public_html/painel/php/ajax/ticket.php:65
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 65
+[02-Nov-2018 11:21:39 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-BRENDA DE SÁ - VEGANISMO NA ATUALIDADE E EQUILÍBRIO NUTRICI' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/schedule.php:20
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/schedule.php(20): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(25): ScheduleController->saveSchedule(Object(Schedule), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/schedule.php on line 20
+[05-Nov-2018 17:36:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method PartnerController::deleteSpeaker() in /home4/iidscomb/public_html/painel/php/ajax/partner.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/partner.php on line 23
+[07-Nov-2018 19:52:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Ticket::getInitialDate() in /home4/iidscomb/public_html/painel/php/controller/ticket.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/ticket.php(26): TicketController->saveTicket(Object(Ticket), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/ticket.php on line 14
+[07-Nov-2018 19:57:47 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ticket::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 68 and exactly 7 expected in /home4/iidscomb/public_html/painel/php/model/ticket.php:13
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/ticket.php(68): Ticket->__construct('2', 'Testing', 'Testing', '10', NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/ticket.php on line 13
+[08-Nov-2018 15:20:20 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ticket::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 47 and exactly 7 expected in /home4/iidscomb/public_html/painel/php/model/ticket.php:13
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/ticket.php(47): Ticket->__construct('undefined', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/ticket.php on line 13
+[08-Nov-2018 15:20:33 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ticket::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 47 and exactly 7 expected in /home4/iidscomb/public_html/painel/php/model/ticket.php:13
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/ticket.php(47): Ticket->__construct('undefined', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/ticket.php on line 13
+[08-Nov-2018 15:20:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Ticket::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 47 and exactly 7 expected in /home4/iidscomb/public_html/painel/php/model/ticket.php:13
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/ticket.php(47): Ticket->__construct('4', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/ticket.php on line 13
+[10-Nov-2018 12:45:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = 'victorvi' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 12:46:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '12006427' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 12:46:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '12006427' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 12:47:05 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '12006427' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 13:01:03 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 13:01:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 13:06:24 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:06:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:37:26 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:38:10 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:39:09 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:39:19 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , e' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:42:13 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:43:05 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' , p' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(33): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 33
+[10-Nov-2018 13:43:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE user SET name = 'Victor Raphaell Vieira Rodrigues' WHERE cpf = '120064274' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:30
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(30): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 30
+[10-Nov-2018 13:46:43 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE `user` SET name = 'Victor Raphaell Vieira Rodrigues' , password = '123' ,' at line 1 in /home4/iidscomb/public_html/painel/php/controller/user.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/user.php(34): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 34
+[10-Nov-2018 13:52:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'CPF' in /home4/iidscomb/public_html/painel/php/controller/user.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/user.php(60): UserController->updateUser(Object(User), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 25
+[19-Nov-2018 17:51:49 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/assistLink.php:12
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/assistLink.php(12): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/assistLink.php(18): AssistLinkController->saveAssistLink(Object(AssistLink), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/assistLink.php on line 12
+[19-Nov-2018 18:03:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-Nome' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/assistLink.php:12
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/assistLink.php(12): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/assistLink.php(18): AssistLinkController->saveAssistLink(Object(AssistLink), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/assistLink.php on line 12
+[19-Nov-2018 18:04:32 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-Nome' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/assistLink.php:12
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/assistLink.php(12): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/assistLink.php(18): AssistLinkController->saveAssistLink(Object(AssistLink), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/assistLink.php on line 12
+[22-Nov-2018 16:22:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getTime() on boolean in /home4/iidscomb/public_html/painel/php/ajax/schedule.php:65
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 65
+[24-Nov-2018 17:16:50 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25-Alguma coisa-2018-12-12 08:00:00' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/schedule.php:20
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/schedule.php(20): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(25): ScheduleController->saveSchedule(Object(Schedule), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/schedule.php on line 20
+[24-Nov-2018 18:48:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ScheduleController::getSchedulesByDay(), 1 passed in /home4/iidscomb/public_html/painel/php/ajax/schedule.php on line 110 and exactly 2 expected in /home4/iidscomb/public_html/painel/php/controller/schedule.php:51
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/schedule.php(110): ScheduleController->getSchedulesByDay(Object(Schedule))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/schedule.php on line 51
+[24-Nov-2018 18:51:18 America/Sao_Paulo] PHP Fatal error: [11-Dec-2018 19:20:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function updateEventConfig() on null in /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php on line 29
+[11-Dec-2018 19:21:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'EventEntries' not found in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php:16
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php(29): EventConfigController->updateEventConfig(NULL, Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php on line 16
+[11-Dec-2018 19:21:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'EventEntries' not found in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php:16
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php(29): EventConfigController->updateEventConfig(NULL, Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php on line 16
+[11-Dec-2018 19:21:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'EventEntries' not found in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php:16
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php(29): EventConfigController->updateEventConfig(Object(EventConfig), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php on line 16
+[11-Dec-2018 19:23:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'TRAVEl' in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php:16
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/eventConfig.php(29): EventConfigController->updateEventConfig(Object(EventConfig), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php on line 16
+[12-Dec-2018 11:43:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 11:43:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 11:47:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 12:49:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 12:50:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 12:50:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 14:38:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 19:33:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 19:34:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 19:36:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[12-Dec-2018 19:44:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method EventConfigController::saveEvent() in /home4/iidscomb/public_html/painel/php/ajax/event.php:60
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 60
+[12-Dec-2018 19:45:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method EventConfigController::saveEvent() in /home4/iidscomb/public_html/painel/php/ajax/event.php:60
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 60
+[12-Dec-2018 22:28:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method EventConfigController::saveEvent() in /home4/iidscomb/public_html/painel/php/ajax/event.php:60
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/event.php on line 60
+[12-Dec-2018 22:30:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method EventConfig::getId() in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php:10
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/event.php(60): EventConfigController->saveEventConfig(Object(EventConfig), Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/eventConfig.php on line 10
+[17-Dec-2018 01:41:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[17-Dec-2018 01:41:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[17-Dec-2018 01:42:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[17-Dec-2018 14:21:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AssistLinkController::updateAssistLink() in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/assistLink.php on line 20
+[19-Dec-2018 19:58:11 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[19-Dec-2018 19:58:24 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[22-Dec-2018 00:21:39 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[22-Dec-2018 00:22:02 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[22-Dec-2018 10:44:53 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[22-Dec-2018 17:42:51 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 5 passed in /home4/iidscomb/public_html/painel/php/ajax/subscribes.php on line 21 and exactly 8 expected in /home4/iidscomb/public_html/painel/php/model/user.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/subscribes.php(21): User->__construct('09965304440', NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/model/user.php on line 14
+[25-Jan-2019 00:28:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 29
+[25-Jan-2019 00:28:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 29
+[25-Jan-2019 00:28:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 35
+[25-Jan-2019 00:29:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 35
+[25-Jan-2019 00:29:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 35
+[25-Jan-2019 00:29:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 35
+[25-Jan-2019 00:29:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 37
+[25-Jan-2019 00:30:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 38
+[25-Jan-2019 00:30:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 38
+[25-Jan-2019 00:30:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 39
+[25-Jan-2019 00:31:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 47
+[25-Jan-2019 00:31:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 49
+[25-Jan-2019 00:32:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 49
+[25-Jan-2019 00:32:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 50
+[25-Jan-2019 00:33:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 50
+[25-Jan-2019 00:33:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 55
+[25-Jan-2019 00:33:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 56
+[25-Jan-2019 00:33:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 57
+[25-Jan-2019 00:33:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 58
+[25-Jan-2019 00:33:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 58
+[25-Jan-2019 00:34:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 58
+[25-Jan-2019 00:34:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 60
+[25-Jan-2019 00:34:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 60
+[25-Jan-2019 00:34:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 00:35:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 00:35:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 00:35:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 17:12:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 17:12:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 17:17:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 66
+[25-Jan-2019 17:18:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 65
+[25-Jan-2019 17:19:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 65
+[25-Jan-2019 17:19:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:19:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:20:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:21:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:23:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:23:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:24:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:24:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:24:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:27:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[25-Jan-2019 17:27:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/painel/php/ajax/mailing-model.php on line 64
+[08-Feb-2019 00:48:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'CPF' in /home4/iidscomb/public_html/painel/php/controller/user.php:28
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/ajax/user.php(66): UserController->updateUser(Object(User), Object(PDO), '12006427407')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/user.php on line 28
+[01-Apr-2019 14:02:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'TicketController' not found in /home4/iidscomb/public_html/painel/php/ajax/ticket.php:67
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 67
+[01-Apr-2019 14:03:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'TicketController' not found in /home4/iidscomb/public_html/painel/php/ajax/ticket.php:67
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/ajax/ticket.php on line 67
+[02-May-2019 11:04:23 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '30-iids' for key 'PRIMARY' in /home4/iidscomb/public_html/painel/php/controller/coupon.php:14
+Stack trace:
+#0 /home4/iidscomb/public_html/painel/php/controller/coupon.php(14): PDOStatement->execute()
+#1 /home4/iidscomb/public_html/painel/php/ajax/coupon.php(23): CouponController->saveCoupon(Object(Coupon), Object(PDO))
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/coupon.php on line 14
+[03-May-2019 21:51:57 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class Submission could not be converted to string in /home4/iidscomb/public_html/painel/php/ajax/submission.php on line 23
+[03-May-2019 21:52:24 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class Submission could not be converted to string in /home4/iidscomb/public_html/painel/php/ajax/submission.php on line 23
+[03-May-2019 21:53:53 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class Submission could not be converted to string in /home4/iidscomb/public_html/painel/php/ajax/submission.php on line 23

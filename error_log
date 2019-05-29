@@ -1,0 +1,651 @@
+[18-Oct-2018 23:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:24
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(12): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 24
+[18-Oct-2018 23:32:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:24
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(12): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 24
+[18-Oct-2018 23:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:24
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(12): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 24
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/mysqli.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/mysqli.so: undefined symbol: mysqlnd_global_stats), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/mysqli.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'mysqlnd' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'PDO_ODBC' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_pgsql' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'mysqlnd' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'PDO_ODBC' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_pgsql' already loaded in Unknown on line 0
+[25-Oct-2018 07:20:05 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2018 11:10:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 129
+[28-Oct-2018 11:10:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 129
+[28-Oct-2018 14:12:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/index.php on line 133
+[28-Oct-2018 11:12:31 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class City could not be converted to string in /home4/iidscomb/public_html/index.php on line 129
+[28-Oct-2018 11:12:34 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class City could not be converted to string in /home4/iidscomb/public_html/index.php on line 129
+[28-Oct-2018 11:13:01 America/Sao_Paulo] PHP Recoverable fatal error:  Object of class City could not be converted to string in /home4/iidscomb/public_html/index.php on line 129
+[29-Oct-2018 10:25:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:26:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 109
+[29-Oct-2018 10:27:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:110
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 110
+[29-Oct-2018 10:27:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:110
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 110
+[29-Oct-2018 10:27:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getFeatured_image() on null in /home4/iidscomb/public_html/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 111
+[29-Oct-2018 10:33:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function strpo() in /home4/iidscomb/public_html/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 120
+[29-Oct-2018 10:33:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function strpo() in /home4/iidscomb/public_html/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 120
+[29-Oct-2018 10:33:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function strpo() in /home4/iidscomb/public_html/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 120
+[29-Oct-2018 10:33:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function strpo() in /home4/iidscomb/public_html/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 120
+[07-Nov-2018 18:49:16 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home4/iidscomb/public_html/index.php on line 131
+[08-Nov-2018 18:48:32 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '{' or '$' in /home4/iidscomb/public_html/index.php on line 123
+[08-Nov-2018 16:50:07 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CityController::getCityById(), 1 passed in /home4/iidscomb/public_html/index.php on line 122 and exactly 2 expected in /home4/iidscomb/public_html/painel/php/controller/city.php:30
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById('3770')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 30
+[08-Nov-2018 16:50:46 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CityController::getCityById(), 1 passed in /home4/iidscomb/public_html/index.php on line 122 and exactly 2 expected in /home4/iidscomb/public_html/painel/php/controller/city.php:30
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById('3770')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 30
+[08-Nov-2018 16:51:02 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CityController::getCityById(), 1 passed in /home4/iidscomb/public_html/index.php on line 122 and exactly 2 expected in /home4/iidscomb/public_html/painel/php/controller/city.php:30
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById('3770')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 30
+[08-Nov-2018 16:51:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home4/iidscomb/public_html/painel/php/controller/city.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById('3770', Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 33
+[08-Nov-2018 16:51:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home4/iidscomb/public_html/painel/php/controller/city.php:33
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById('3770', Object(PDO))
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 33
+[08-Nov-2018 16:52:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home4/iidscomb/public_html/painel/php/controller/city.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById(Object(PDO), '3770')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 34
+[08-Nov-2018 16:53:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home4/iidscomb/public_html/painel/php/controller/city.php:34
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(122): CityController->getCityById(Object(PDO), '3770')
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/city.php on line 34
+[08-Nov-2018 16:54:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on array in /home4/iidscomb/public_html/index.php:123
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 123
+[08-Nov-2018 16:54:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on array in /home4/iidscomb/public_html/index.php:123
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 123
+[08-Nov-2018 16:54:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on array in /home4/iidscomb/public_html/index.php:123
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 123
+[08-Nov-2018 16:54:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on array in /home4/iidscomb/public_html/index.php:123
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 123
+[08-Nov-2018 16:55:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'State' not found in /home4/iidscomb/public_html/index.php:124
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 124
+[08-Nov-2018 16:55:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'State' not found in /home4/iidscomb/public_html/index.php:124
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 124
+[08-Nov-2018 16:55:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'State' not found in /home4/iidscomb/public_html/index.php:124
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/index.php on line 124
+[28-Nov-2018 19:57:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/index.php on line 162
+[28-Nov-2018 22:51:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/index.php on line 163
+[15-Feb-2019 00:34:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:34:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:34:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:35:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:35:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:35:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:35:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:36:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:37:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:39:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:41:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:42:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:42:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:42:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:43:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:43:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:43:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:44:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:44:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:45:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:46:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:46:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:46:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:46:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:46:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:48:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:49:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:49:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:49:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:49:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:50:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:50:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:50:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:50:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:51:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:53:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:53:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25
+[15-Feb-2019 00:54:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/event.php:25
+Stack trace:
+#0 /home4/iidscomb/public_html/index.php(14): EventController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/event.php on line 25

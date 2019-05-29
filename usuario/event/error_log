@@ -1,0 +1,141 @@
+[23-Oct-2018 17:21:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/iidscomb/public_html/usuario/event/index.php on line 37
+[23-Oct-2018 17:21:14 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/iidscomb/public_html/usuario/event/index.php on line 39
+[23-Oct-2018 17:21:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:14) in /home4/iidscomb/public_html/usuario/event/index.php on line 40
+[23-Oct-2018 17:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/usuario/event/index.php:228
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 228
+[07-Nov-2018 20:57:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 120
+[07-Nov-2018 20:59:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 119
+[08-Nov-2018 15:41:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 119
+[08-Nov-2018 15:41:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 119
+[08-Nov-2018 15:41:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 119
+[08-Nov-2018 15:42:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Submission::getStatus() in /home4/iidscomb/public_html/usuario/event/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 119
+[08-Nov-2018 15:45:44 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare Submission::setEvent_id() in /home4/iidscomb/public_html/painel/php/model/submission.php on line 227
+[08-Nov-2018 15:45:45 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare Submission::setEvent_id() in /home4/iidscomb/public_html/painel/php/model/submission.php on line 227
+[08-Nov-2018 15:45:48 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare Submission::setEvent_id() in /home4/iidscomb/public_html/painel/php/model/submission.php on line 227
+[08-Nov-2018 15:45:49 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare Submission::setEvent_id() in /home4/iidscomb/public_html/painel/php/model/submission.php on line 227
+[08-Nov-2018 15:45:57 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare Submission::setEvent_id() in /home4/iidscomb/public_html/painel/php/model/submission.php on line 227
+[08-Nov-2018 19:49:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:16) in /home4/iidscomb/public_html/usuario/event/index.php on line 41
+[08-Nov-2018 19:49:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/usuario/event/index.php:233
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 233
+[08-Nov-2018 19:49:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:16) in /home4/iidscomb/public_html/usuario/event/index.php on line 41
+[08-Nov-2018 19:49:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/usuario/event/index.php:233
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 233
+[14-Nov-2018 20:16:33 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:16:35 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:16:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:16:50 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:16:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:16:53 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:17:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:17:39 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:17:54 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:18:14 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:18:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 20:18:43 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:17) in /home4/iidscomb/public_html/usuario/event/index.php on line 77
+[14-Nov-2018 22:19:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 96
+[14-Nov-2018 22:21:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 224
+[14-Nov-2018 22:21:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 224
+[14-Nov-2018 22:21:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:21:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 223
+[14-Nov-2018 22:23:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/iidscomb/public_html/usuario/event/index.php on line 219
+[01-Dec-2018 22:25:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[01-Dec-2018 22:25:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[01-Dec-2018 22:25:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[01-Dec-2018 22:25:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:12:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:12:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:41:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:41:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:41:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[03-Dec-2018 21:41:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 22:58:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:07:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:12:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:12:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:12:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:17:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:17:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home4/iidscomb/public_html/usuario/event/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/usuario/event/index.php on line 48
+[04-Dec-2018 23:23:08 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:48) in /home4/iidscomb/public_html/usuario/event/index.php on line 57
+[04-Dec-2018 23:23:10 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:48) in /home4/iidscomb/public_html/usuario/event/index.php on line 57
+[04-Dec-2018 23:23:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:48) in /home4/iidscomb/public_html/usuario/event/index.php on line 57
+[04-Dec-2018 23:23:43 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/usuario/event/index.php:53) in /home4/iidscomb/public_html/usuario/event/index.php on line 57

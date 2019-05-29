@@ -1,0 +1,92 @@
+#schedule-slides {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+#schedule-slides .day-selector {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    margin: 15px 0 0 0;
+}
+
+#schedule-slides .day-selector ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+
+#schedule-slides .day-selector ul li {
+    padding: 5px 15px;
+    margin: 0 5px;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0b2437;
+    transition: 100ms ease-in;
+    font-size: 1.2em;
+}
+
+#schedule-slides .day-selector ul li.active,
+#schedule-slides .day-selector ul li:hover {
+    background-color: #0b2437;
+    color: white;
+    transition: 100ms ease-in;
+}
+
+#schedule-slides .day {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px 0 0 0;
+}
+
+#schedule-slides .day.active {
+    display: flex;
+    width: 80%;
+}
+
+#schedule-slides .day .act {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #0b2437;
+    padding: 20px 20px;
+    width: 100%;
+    transition: 100ms ease-in;
+}
+
+#schedule-slides .day .act:hover {
+    padding: 20px 0;
+    transition: 100ms ease-in;
+}
+
+#schedule-slides .day .act:hover .act-title, 
+#schedule-slides .day .act:hover .act-hour {
+    font-size: 1.15em;
+    transition: 100ms ease-in;
+    cursor: default;
+}
+
+#schedule-slides .day .act .act-title {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.1em;
+    transition: 100ms ease-in;
+}
+#schedule-slides .day .act .act-hour {
+    flex: 1;
+    flex-wrap: nowrap;
+    text-align: right;
+    font-size: 1.1em;
+    transition: 100ms ease-in;
+}

@@ -1,0 +1,176 @@
+[15-Feb-2019 02:18:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /home4/iidscomb/public_html/painel/event/participant/export.php:143
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 143
+[15-Feb-2019 15:25:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89
+[15-Feb-2019 15:26:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /home4/iidscomb/public_html/painel/event/participant/export.php:143
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 143
+[20-Feb-2019 11:11:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[20-Feb-2019 11:11:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[20-Feb-2019 19:40:40 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[20-Feb-2019 19:40:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[12-Mar-2019 19:36:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[12-Mar-2019 19:36:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[18-Mar-2019 15:50:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[18-Mar-2019 15:50:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[19-Mar-2019 23:00:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[19-Mar-2019 23:00:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[22-Mar-2019 10:16:38 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[22-Mar-2019 10:16:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[22-Mar-2019 10:45:14 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 72
+[22-Mar-2019 10:45:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:211
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 211
+[26-Mar-2019 21:05:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89
+[03-Apr-2019 13:35:07 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[03-Apr-2019 13:35:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[04-Apr-2019 13:14:48 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[04-Apr-2019 13:14:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[06-Apr-2019 10:13:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89
+[09-Apr-2019 14:36:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /home4/iidscomb/public_html/painel/event/participant/export.php:143
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 143
+[17-Apr-2019 23:39:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89
+[01-May-2019 18:18:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/painel/event/participant/filter.php:16
+Stack trace:
+#0 [internal function]: cmp(Array, Array)
+#1 /home4/iidscomb/public_html/painel/event/participant/filter.php(158): usort(Array, 'cmp')
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 16
+[01-May-2019 18:18:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/painel/event/participant/filter.php:16
+Stack trace:
+#0 [internal function]: cmp(Array, Array)
+#1 /home4/iidscomb/public_html/painel/event/participant/filter.php(158): usort(Array, 'cmp')
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 16
+[01-May-2019 18:18:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/painel/event/participant/filter.php:78
+Stack trace:
+#0 [internal function]: cmp(Array, Array)
+#1 /home4/iidscomb/public_html/painel/event/participant/filter.php(158): usort(Array, 'cmp')
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 78
+[01-May-2019 18:18:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/painel/event/participant/filter.php:78
+Stack trace:
+#0 [internal function]: cmp(Array, Array)
+#1 /home4/iidscomb/public_html/painel/event/participant/filter.php(158): usort(Array, 'cmp')
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 78
+[01-May-2019 18:18:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on array in /home4/iidscomb/public_html/painel/event/participant/filter.php:78
+Stack trace:
+#0 [internal function]: cmp(Array, Array)
+#1 /home4/iidscomb/public_html/painel/event/participant/filter.php(158): usort(Array, 'cmp')
+#2 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 78
+[01-May-2019 18:20:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home4/iidscomb/public_html/painel/event/participant/filter.php:174
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 174
+[01-May-2019 18:20:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home4/iidscomb/public_html/painel/event/participant/filter.php:174
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 174
+[01-May-2019 18:20:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home4/iidscomb/public_html/painel/event/participant/filter.php:174
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 174
+[01-May-2019 18:20:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home4/iidscomb/public_html/painel/event/participant/filter.php:174
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 174
+[01-May-2019 18:20:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type User as array in /home4/iidscomb/public_html/painel/event/participant/filter.php:174
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 174
+[08-May-2019 12:46:17 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[08-May-2019 12:46:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:23:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[09-May-2019 12:23:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:23:09 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[09-May-2019 12:23:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:24:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[09-May-2019 12:24:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:24:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[09-May-2019 12:24:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:25:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[09-May-2019 12:25:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[09-May-2019 12:56:30 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/filter.php:14) in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 88
+[09-May-2019 12:56:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/filter.php:232
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/filter.php on line 232
+[10-May-2019 15:03:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[10-May-2019 15:03:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[23-May-2019 14:16:19 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/iidscomb/public_html/painel/event/participant/index.php:14) in /home4/iidscomb/public_html/painel/event/participant/index.php on line 71
+[23-May-2019 14:16:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home4/iidscomb/public_html/painel/event/participant/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/index.php on line 186
+[29-May-2019 15:48:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89
+[29-May-2019 15:48:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Transaction' not found in /home4/iidscomb/public_html/painel/event/participant/export.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/event/participant/export.php on line 89

@@ -1,0 +1,5 @@
+[15-Feb-2019 00:26:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/iidscomb/public_html/painel/php/controller/postgraduation.php:41
+Stack trace:
+#0 /home4/iidscomb/public_html/posgraduacoes/index.php(10): PostGraduationController->getAll(NULL)
+#1 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/controller/postgraduation.php on line 41

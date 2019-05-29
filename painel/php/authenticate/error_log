@@ -1,0 +1,4 @@
+[18-Apr-2019 15:30:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'UserController' not found in /home4/iidscomb/public_html/painel/php/authenticate/user.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/iidscomb/public_html/painel/php/authenticate/user.php on line 22
