@@ -4,16 +4,16 @@ setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
 date_default_timezone_set('America/Sao_Paulo');
 
 class Database {
-
+/**
+*    private $servername = "localhost";
+*    private $username = "iidscomb_admin";
+*    private $password = "iidsadmin";
+*    private $database = "iidscomb_db";
+*/ 
     private $servername = "localhost";
-    private $username = "iidscomb_admin";
-    private $password = "iidsadmin";
-    private $database = "iidscomb_db";
-    
-    /** private $servername = "localhost";
     private $username = "root";
     private $password = "";
-    private $database = "iidscomb_db";**/
+    private $database = "iidscomb_db";
     
     private $conn;
     public $err;
@@ -42,5 +42,3 @@ class Database {
         return $this->err;
     }
 }
-
-?>
