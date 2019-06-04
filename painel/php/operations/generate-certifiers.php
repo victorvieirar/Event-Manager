@@ -55,12 +55,8 @@
 	$dompdf->render();
 
 	//Exibibir a página
-	$dompdf->stream(
-		"relatorio_celke.pdf", 
-		array(
-			"Attachment" => false //Para realizar o download somente alterar para true
-		)
-	);
-	//header('location: ../../event/?event='.$event);
+	$output = $dompdf->output();
+	file_put_contents('pdf/arquivo '.$row_transacoes['name'].'.pdf', $output);
+	header('location: ../../event/?event='.$event);
 	}
 ?>
