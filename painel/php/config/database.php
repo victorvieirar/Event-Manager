@@ -10,6 +10,11 @@ class Database {
     private $password = "iidsadmin";
     private $database = "iidscomb_db";
     
+    /** private $servername = "localhost";
+    private $username = "root";
+    private $password = "";
+    private $database = "iidscomb_db";**/
+    
     private $conn;
     public $err;
 
