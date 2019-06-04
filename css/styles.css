@@ -2031,6 +2031,26 @@ button.button {
   transition: 0.1s ease-in-out;
 }
 
+.btn-large {
+  height: 50%;
+  align-self: center;
+  color: white;
+  background-color: rgb(12, 148, 218) !important;
+  border: 1px solid rgb(12, 148, 218) !important;
+  -webkit-transition: 0.1s ease-in-out;
+  -moz-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+  margin-left: 1%;
+}
+
+.btn-large:hover {
+  background-color: #0b2437 !important;
+  border: 1px solid #0b2437 !important;
+  -webkit-transition: 0.1s ease-in-out;
+  -moz-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+}
+
 .description {
   text-align: center;
 }
